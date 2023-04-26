@@ -1,4 +1,4 @@
-<h1>Greetings. My name is Rohan and I am an <a href="https://linkedin.com/in/Josh">IT Professional</a/h1>.
+<h1>Greetings. My name is Rohan and I am an <a href="https://linkedin.com/in/rohaniat">IT Professional</a/h1>.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
