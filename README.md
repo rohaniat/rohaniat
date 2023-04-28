@@ -9,7 +9,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rohaniat/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/rohaniat/networkfilesharesandpermissions)
 - <b>PowerShell</b>
-   - [Creating Your First Powershell Script](https://github.com/rohaniat/first-powershell-script)
+   - [Creating Your First PowerShell Script](https://github.com/rohaniat/first-powershell-script)
 
 <h2>🤳Connect with me:</h2>
 
