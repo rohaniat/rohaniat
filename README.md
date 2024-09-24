@@ -1,6 +1,6 @@
 <h1>Greetings. My name is Rohan and I am a <a href="https://linkedin.com/in/rohaniat">Cybersecurity Professional</a/h1>.
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation, Post Installation Setup, Tickets and Ticket Lifecycle](https://github.com/rohaniat/osticket-prereqs) 
