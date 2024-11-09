@@ -9,6 +9,7 @@
 
 - <b>Python</b>
   - [Python Encryption & Decryption Tool](https://github.com/rohaniat/Python)
+  - [Logging](https://github.com/rohaniat/Logging)
 
 - <b>Encryption</b>
   - [TLS Handshake Encryption Analysis](https://github.com/rohaniat/Encryption)
