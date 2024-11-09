@@ -2,6 +2,9 @@
 
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
+- <b>Encryption</b>
+  - [TLS Handshake Encryption Analysis](https://github.com/rohaniat/Encryption)
+
 - <b>Information Gathering on Tesla</b>
   - [Information Gathering](https://github.com/rohaniat/InformationGathering)
 
