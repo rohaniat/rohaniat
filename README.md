@@ -2,6 +2,9 @@
 
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
+- <b>Python</b>
+  - [Python Encryption & Decryption Tool](https://github.com/rohaniat/Python)
+
 - <b>Encryption</b>
   - [TLS Handshake Encryption Analysis](https://github.com/rohaniat/Encryption)
 
