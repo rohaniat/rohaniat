@@ -2,6 +2,13 @@
 
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
+- <b>BrainStation Capstone Project 🎓</b>
+  - [MAISON Cybersecurity Capstone Project](https://github.com/Capstone)
+
+- <b>Incident Response and Business Continuity</b>
+  - [Incident Response Plan](https://github.com/rohaniat/IncidentResponsePlan)
+  - [Business Continuity Plan](https://github.com/rohaniat/BusinessContinuityPlan)
+
 - <b>SOC & Automation</b>
   - [SOC & Automation Project with Wazuh and Shuffler.io](https://github.com/rohaniat/SOC-Automation)
 
