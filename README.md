@@ -2,13 +2,16 @@
 
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
+- <b>Information Gathering on Tesla</b>
+  - [Information Gathering](https://github.com/rohaniat/InformationGathering)
+
 - <b>Medical Clinic Security</b>
   - [Medical Clinic Network Security Assessment](https://github.com/rohaniat/NetworkSecurity)
   - [Medical Clinic Vulnerability Remediation Plan](https://github.com/rohaniat/VulnerabilityRemediation)
   - [Medical Clinic Defensive Strategy](https://github.com/rohaniat/DefensiveStrategy)
 
 - <b>Case Study</b>
-  - [Cybersecurity MOVR Company Case Study](https://github.com/rohaniat/CaseStudy)
+  - [MOVR Company Case Study](https://github.com/rohaniat/CaseStudy)
 
 <h2>👨‍💻 IT Projects:</h2>
 
