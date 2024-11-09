@@ -2,6 +2,11 @@
 
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
+- <b>SpendSmart Security Solutions</b>
+  - [Application Security and SDLC](https://github.com/rohaniat/ApplicationSecurity-SDLC)
+  - [Threat Modeling](https://github.com/rohaniat/ThreatModeling)
+  - [SQL](https://github.com/rohaniat/SQL)
+
 - <b>Python</b>
   - [Python Encryption & Decryption Tool](https://github.com/rohaniat/Python)
 
