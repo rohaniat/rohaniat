@@ -2,7 +2,7 @@
 
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Case Study</b>
   - [Cybersecurity MOVR Company Case Study](https://github.com/rohaniat/CaseStudy)
 
 <h2>👨‍💻 IT Projects:</h2>
