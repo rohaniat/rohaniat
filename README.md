@@ -2,6 +2,9 @@
 
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
+- <b>SOC & Automation</b>
+  - [SOC & Automation Project with Wazuh and Shuffler.io](https://github.com/rohaniat/SOC-Automation)
+
 - <b>SpendSmart Security Solutions</b>
   - [Application Security and SDLC](https://github.com/rohaniat/ApplicationSecurity-SDLC)
   - [Threat Modeling](https://github.com/rohaniat/ThreatModeling)
