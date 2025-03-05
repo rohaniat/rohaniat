@@ -3,7 +3,7 @@
 <h2>👨‍💻🔒 Cybersecurity Projects:</h2>
 
 - <b>BrainStation Capstone Project 🎓</b>
-  - [MAISON Cybersecurity Capstone Project](https://github.com/Capstone)
+  - [MAISON Cybersecurity Capstone Project](https://github.com/rohaniat/Capstone)
 
 - <b>Incident Response and Business Continuity</b>
   - [Incident Response Plan](https://github.com/rohaniat/IncidentResponsePlan)
